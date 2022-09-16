@@ -1,0 +1,60 @@
+{
+	"host-name":"hunting-plan.tw",
+	"web-title":"原住民狩獵資訊系統",
+	"banner":"https://github.com/ritakay123/pb2t-Images/blob/main/hunter_landing.jpg?raw=true",
+	"footerLogo":"https://github.com/ritakay123/pb2t-Images/blob/main/lingWugu.png?raw=true",
+	"footerContent":"",
+	"section":[
+		{ //計畫介紹區塊 start
+			"section-name":"introduce",
+			"section-title":"計畫介紹",
+			"section-content":"本計畫為行政院農業委員會林務局與究心公益科技股份有限公司合作建置之原住民狩獵資訊系統，希望藉由科技及網路技術，簡化原住民依法申請狩獵之流程，並透過累積野生動物資源動態變化關係之參考。",
+			"qrcode-title":"掃描QR code加入計畫:",
+			"qrcode-img":"https://github.com/ritakay123/pb2t-Images/blob/main/hintingQR.jpeg?raw=true",
+			"section-img":"https://github.com/ritakay123/pb2t-Images/blob/main/hunterPlanIntroduce.png?raw=true",
+		}, //計畫介紹區塊 end
+		{ //最新消息區塊 start
+			"section-name":"news",
+			"section-content":[ //最新消息內容 start
+				{
+					"news-date":"2022-04-23",
+					"news-title":"原民狩獵如何規範？從對立到聆聽，原住民與動保團體在對話中逐漸找到共識",
+					"news-link":"https://www.thenewslens.com/article/165858",
+				},
+				{
+					"news-date":"2022-04-21",
+					"news-title":"《原住民族狩獵管理辦法》修法說明會 林務局彙整各方意見",
+					"news-link":"https://news.ipcf.org.tw/31231",
+				},
+				{
+					"news-date":"2022-04-20",
+					"news-title":"動團抗議狩獵辦法 原民會：鼓勵建立獵人協會",
+					"news-link":"https://udn.com/news/story/7314/6254102",
+				},
+				{
+					"news-date":"2022-02-22",
+					"news-title":"桃園設協會 鼓勵原民狩獵自主管理",
+					"news-link":"https://www.chinatimes.com/newspapers/20220222000467-260107?chdtv",
+				},
+				{
+					"news-date":"2021-12-29",
+					"news-title":"原民狩獵爭議頻傳 林務局辦「狩獵自主管理計畫」 逾20部落參與試辦",
+					"news-link":"https://news.ipcf.org.tw/16941",
+				},
+			],//最新消息內容 end
+		},//最新消息區塊 end
+		{ //使用流程教學區塊 start
+			"section-name":"turtorial",
+			"section-title":"使用流程教學",
+			"second-title":"請點擊您的身份，即可查看使用流程",
+			"icon01-title":"個人獵人",
+			"icon01-link":"https://drive.google.com/file/d/1G7eCaSgGsNYQ6OlU9X5Ycnw4gGPU66LC/view",
+			"icon02-title":"部落獵人",
+			"icon02-link":"https://drive.google.com/file/d/1dZCSqosUjF8xlpYrQ_lOqG0z_Xs71oaI/view",
+			"icon03-title":"部落管理者",
+			"icon03-link":"https://drive.google.com/file/d/1aRlJ2t2xu5PHq6CD0i-CZ66uPr2eS7kI/view",
+			"icon04-title":"縣市政府管理者",
+			"icon04-link":"https://drive.google.com/file/d/1rJx__yZOPja4AWneqNwg1KKlpHS8bz49/view",
+		}, //使用流程教學區塊 end
+	],
+}
